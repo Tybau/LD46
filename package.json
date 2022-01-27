@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "three": "^0.114.0",
+    "three": "^0.137.0",
     "three-dragcontrols": "^0.88.2"
   }
 }
